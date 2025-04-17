@@ -31,10 +31,10 @@ I’ve contributed to academic research in image processing, natural language- s
 ### 🔹 [Charity Donation Website](https://github.com/wojackbro/charity_donation_website)
 A full-stack web app that connects donors and recipients. Built using PHP, MySQL, and Bootstrap with session handling and user roles.
 
-### 🔹 [Company Analytics Platform](https://github.com/wojackbro/Company_Analytics_P)
+### 🔹 [Company Analytics Platform](https://github.com/wojackbro/Company_Analytics_Project)
 A modular data dashboard for visualizing company performance and trends—ideal for analytics and decision-making.
 
-### 🔹 [NLP-Based Corpus Project](https://github.com/wojackbro/Bengali-NER-Corpus)
+### 🔹 [NLP-Based Corpus Project](https://github.com/wojackbro/Sentiment_Classification_Bengali_Text)
 A Named Entity Recognition dataset and pipeline for Bengali language using transformers and transfer learning.
 
 Explore more on [my GitHub repositories](https://github.com/wojackbro?tab=repositories) or on my [portfolio site](https://www.abidbhay.github.io).
