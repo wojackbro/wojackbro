@@ -2,7 +2,7 @@
 
 **AI & NLP Enthusiast | Data Scientist | Researcher | Web & Web App Developer**
 
-I'm a computational simulation engineer and applied mathematics researcher currently based in Italy. My work spans across AI, machine learning, and scientific computing, with a strong focus on:
+I'm a artificial intelligence engineer and applied mathematics researcher currently based in Italy. My work spans across AI, machine learning, and scientific computing, with a strong focus on:
 
 - 🧠 **Natural Language Processing (NLP)**
 - 🖼️ **Image and Speech Processing**
@@ -17,7 +17,7 @@ I'm passionate about building efficient, scalable AI systems and developing tool
 
 ## 🔬 Research & Publications
 
-I’ve contributed to academic research in fluid mechanics, heat transfer, and applied epidemiology.
+I’ve contributed to academic research in image processing, natural language- speech, text, sentiment, and federated learning security.
 
 📚 Check out my academic work:
 
