@@ -52,7 +52,7 @@ Explore more on [my GitHub repositories](https://github.com/wojackbro?tab=reposi
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [www.abidbhay.github.io](https://www.abidbhay.github.io)
+- 🌐 **Portfolio:** [www.abidhossain.me](abidhossain.me)
 - 💼 **LinkedIn:** [in/abidanick](https://www.linkedin.com/in/abidanick)
 - 🧠 **Google Scholar:** [Abid Hossain](https://scholar.google.com/citations?hl=en&user=9SFNxhMAAAAJ)
 - 🧾 **ORCID:** [0009-0004-9532-8224](https://orcid.org/0009-0004-9532-8224)
