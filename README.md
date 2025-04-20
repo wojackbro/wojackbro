@@ -11,6 +11,10 @@ I'm a artificial intelligence engineer and applied mathematics researcher curren
 - 🧰 **ETL Pipelines and Data Engineering**
 - 💻 **Web and Web App Development**
 
+**Check out my new website**: www.abidhossain.me
+It is built from Next.js, TailwindCSS and Framermotion
+Old website (still live): https://abidbhay.github.io
+
 I'm passionate about building efficient, scalable AI systems and developing tools that bridge science and real-world applications. Always open to new challenges and collaborations.
 
 ---
