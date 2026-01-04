@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Abid Hossain
 
-**AI & NLP Enthusiast | Data Scientist | Researcher | Web & Web App Developer**
+**Software Engineer | Ex-Lecturer @ BRACU | Researcher | Telecom Networks and Robotics**
 
-I'm a artificial intelligence engineer and applied mathematics researcher currently based in Italy. My work spans across AI, machine learning, and scientific computing, with a strong focus on:
+I'm a software engineer and researcher currently based in Italy. My work and interestspans across Telecom, NLP, and scientific computing's various topics, with a strong focus on:
 
 - 🧠 **Natural Language Processing (NLP)**
 - 🖼️ **Image and Speech Processing**
 - 🌐 **Federated Learning**
 - 🧪 **Scientific Computing & Modeling**
-- 🧰 **ETL Pipelines and Data Engineering**
-- 💻 **Web and Web App Development**
+- 🧰 **ETL Pipelines and Big Data**
+- 💻 **Project Simulation**
 
 **Check out my new website**: www.abidhossain.me
 It is built from Next.js, TailwindCSS and Framermotion
