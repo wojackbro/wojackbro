@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abid Hossain
+# 👋 Hi, welcome.
 
 🎓 M.Sc. Computer Science (AI, Complex Networks & Data Analytics) — University of L'Aquila
 🔬 Researcher in Synthetic Data, Foundation Models, and Multimodal AI
