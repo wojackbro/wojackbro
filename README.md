@@ -1,68 +1,110 @@
 # 👋 Hi, I'm Abid Hossain
 
-**Software Engineer | Ex-Lecturer @ BRACU | Researcher | Telecom Networks and Robotics**
+🎓 M.Sc. Computer Science (AI, Complex Networks & Data Analytics) — University of L'Aquila
+🔬 Researcher in Synthetic Data, Foundation Models, and Multimodal AI
+📍 L'Aquila, Italy
 
-I'm a software engineer and researcher currently based in Italy. My work and interestspans across Telecom, NLP, and scientific computing's various topics, with a strong focus on:
-
-- 🧠 **Natural Language Processing (NLP)**
-- 🖼️ **Image and Speech Processing**
-- 🌐 **Federated Learning**
-- 🧪 **Scientific Computing & Modeling**
-- 🧰 **ETL Pipelines and Big Data**
-- 💻 **Project Simulation**
-
-**Check out my new website**: www.abidhossain.me
-It is built from Next.js, TailwindCSS and Framermotion
-
-**Old website**
-(still live): https://abidbhay.github.io
-
-I'm passionate about building efficient, scalable AI systems and developing tools that bridge science and real-world applications. Always open to new challenges and collaborations.
+I work on **synthetic data generation, foundation models, and multimodal deep learning for real-world AI systems**, with applications in autonomous driving, geospatial intelligence, and scientific modeling. My research focuses on building scalable AI systems that reduce data dependency while improving robustness and generalization.
 
 ---
 
-## 🔬 Research & Publications
+## 🔬 Research Interests
 
-I’ve contributed to academic research in image processing, natural language- speech, text, sentiment, and federated learning security.
-
-📚 Check out my academic work:
-
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=9SFNxhMAAAAJ)
-- [ORCID](https://orcid.org/0009-0004-9532-8224)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Charity Donation Website](https://github.com/wojackbro/charity_donation_website)
-A full-stack web app that connects donors and recipients. Built using PHP, MySQL, and Bootstrap with session handling and user roles.
-
-### 🔹 [Company Analytics Platform](https://github.com/wojackbro/Company_Analytics_Project)
-A modular data dashboard for visualizing company performance and trends—ideal for analytics and decision-making.
-
-### 🔹 [NLP-Based Corpus Project](https://github.com/wojackbro/Sentiment_Classification_Bengali_Text)
-A Named Entity Recognition dataset and pipeline for Bengali language using transformers and transfer learning.
-
-Explore more on [my GitHub repositories](https://github.com/wojackbro?tab=repositories) or on my [portfolio site](https://www.abidbhay.github.io).
+* Synthetic Data Generation for Vision & Multimodal Models
+* Foundation Models & Benchmark Reliability
+* Privacy-Preserving Machine Learning (Federated Learning)
+* Multimodal Deep Learning (Vision + Language + Sensor Data)
+* Geospatial AI & Socioeconomic Prediction
+* Driver Monitoring & Autonomous Systems
 
 ---
 
-## 🛠️ Technical Skills
+## 🧪 Selected Research Projects
 
-- **Languages:** Python, PHP, JavaScript, SQL  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Flask, Bootstrap  
-- **Tools & Platforms:** Git, Docker, MySQL, Linux  
-- **Core Areas:** Machine Learning, Deep Learning, Web Dev, Scientific Computing, Agile/Scrum
+### 🚗 SplatCabin — Synthetic Driver Monitoring via 3D Gaussian Splatting
+
+Privacy-preserving in-cabin synthetic dataset generation using 3D Gaussian Splatting and SMPL-X avatars.
+
+* Photorealistic car interior reconstruction
+* Synthetic driver behavior dataset generation
+* Domain transfer to real-world driver monitoring benchmarks
+
+👉 https://github.com/wojackbro/splatcabin-3dgs-digital-twin
+
+---
+
+### 🧬 Foundation Model Contamination Audit (BioFM Reliability)
+
+Auditing data leakage in RNA and protein language models using membership inference and homology overlap.
+
+* Benchmark reliability analysis (Rfam, ProteinGym)
+* Train-test contamination detection
+* Decontamination protocols for biological foundation models
+
+👉 https://github.com/wojackbro/biomodel-contamination-audit
 
 ---
 
-## 📫 Let's Connect
+### 🌍 Geospatial Foundation Models for Urban Socioeconomic Prediction
 
-- 🌐 **Portfolio:** [www.abidhossain.me](abidhossain.me)
-- 💼 **LinkedIn:** [in/abidanick](https://www.linkedin.com/in/abidanick)
-- 🧠 **Google Scholar:** [Abid Hossain](https://scholar.google.com/citations?hl=en&user=9SFNxhMAAAAJ)
-- 🧾 **ORCID:** [0009-0004-9532-8224](https://orcid.org/0009-0004-9532-8224)
+Adapting multimodal geospatial foundation models for poverty and infrastructure estimation.
 
-Feel free to reach out if you're interested in collaborating on AI research, data science projects, or web applications!
+* Satellite + socioeconomic multimodal learning
+* Transfer learning with geospatial FMs
+* Urban indicator prediction pipeline
 
 ---
+
+### 👁️ Custom CNN for Retinal Disease Classification
+
+Designed lightweight CNN architectures with ablation studies and Grad-CAM interpretability.
+
+* 6–12 layer architecture comparison
+* 2.9M parameters
+* 94.13% test accuracy
+
+👉 https://github.com/wojackbro/Custom-Model-and-Ablation-Testing-for-Retinal-Disease--Journal-Publication-
+
+---
+
+## 📚 Publications
+
+* Privacy Preserving Federated Learning for Speech Emotion Recognition (IEEE 2024)
+* Automated Image Caption Generation using Deep Learning (IEEE 2024)
+
+📖 Google Scholar:
+https://scholar.google.com/citations?hl=en&user=9SFNxhMAAAAJ
+
+---
+
+## 🧠 Technical Focus
+
+**Deep Learning:** PyTorch, TensorFlow, Transformers, Diffusion Models
+**Vision & Multimodal:** OpenCV, ViT, CNNs, CLIP, Geospatial Models
+**LLMs:** HuggingFace, RAG, LangChain
+**Scientific Computing:** NumPy, MATLAB, Simulation Modeling
+**Tools:** Docker, Git, Linux, FAISS
+
+---
+
+## 🌐 Links
+
+Website: https://www.abidhossain.me
+Google Scholar: https://scholar.google.com/citations?hl=en&user=9SFNxhMAAAAJ
+LinkedIn: https://www.linkedin.com/in/abidanick
+ORCID: https://orcid.org/0009-0004-9532-8224
+
+---
+
+## 🤝 Collaboration
+
+I'm interested in collaborating on:
+
+* Synthetic data generation
+* Diffusion models
+* Foundation model evaluation
+* Autonomous driving AI
+* Multimodal learning systems
+* Geospatial AI research
+
+Feel free to reach out or open an issue in any repository.
